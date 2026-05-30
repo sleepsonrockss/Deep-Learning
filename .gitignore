@@ -3,3 +3,8 @@
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+Trained_Models/
+*.h5
+*.keras
+train.csv
