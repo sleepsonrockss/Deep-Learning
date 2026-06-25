@@ -9,3 +9,6 @@ Trained_Models/
 *.keras
 train.csv
 media
+test
+HumanEmotions/EmotionsDataset/test
+HumanEmotions/EmotionsDataset/train
