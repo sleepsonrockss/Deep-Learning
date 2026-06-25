@@ -8,3 +8,4 @@ Trained_Models/
 *.h5
 *.keras
 train.csv
+media
